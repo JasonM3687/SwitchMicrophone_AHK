@@ -1,4 +1,4 @@
-; Simple microphone switching auto hotkey script
+; Simple microphone switching auto hotkey script (assumes auto hotkey is already installed)
 ; Change sleep values if needed
 
 ; Switching to secondary microphone
